@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scholar-vault-flag-hopkins.trycloudflare.com/vnc.html
+URL       : https://arrives-can-emphasis-declaration.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 21:05:18
+Created   : 2026-07-30 02:48:30
 =======================================================
