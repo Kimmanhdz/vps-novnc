@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entrepreneur-designers-coordinator-fantasy.trycloudflare.com/vnc.html
+URL       : https://network-monroe-absence-attribute.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:50:13
+Created   : 2026-08-08 02:00:26
 =======================================================
