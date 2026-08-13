@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://totally-affiliated-period-forward.trycloudflare.com/vnc.html
+URL       : https://sensor-burn-coverage-char.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 06:23:11
+Created   : 2026-08-13 11:11:53
 =======================================================
