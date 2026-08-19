@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mainly-alpine-communication-right.trycloudflare.com/vnc.html
+URL       : https://measured-dust-quality-advocacy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 15:39:46
+Created   : 2026-08-19 20:37:39
 =======================================================
