@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://student-fall-elliott-taste.trycloudflare.com/vnc.html
+URL       : https://carried-printing-chest-expenditure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 09:16:26
+Created   : 2026-09-06 13:32:42
 =======================================================
