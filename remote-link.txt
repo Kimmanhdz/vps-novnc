@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exhibit-dinner-july-industrial.trycloudflare.com/vnc.html
+URL       : https://treat-stood-attractions-portions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 04:20:51
+Created   : 2026-09-14 10:30:07
 =======================================================
