@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://examines-computing-notes-agencies.trycloudflare.com/vnc.html
+URL       : https://takes-enabled-souls-carefully.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-05 05:01:04
+Created   : 2026-10-05 12:14:37
 =======================================================
