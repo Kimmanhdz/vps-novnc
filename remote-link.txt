@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kernel-end-skirts-define.trycloudflare.com/vnc.html
+URL       : https://compared-locate-clinics-stable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 18:19:29
+Created   : 2026-10-25 22:25:58
 =======================================================
