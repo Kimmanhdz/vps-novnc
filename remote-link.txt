@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://receptors-environment-boss-smile.trycloudflare.com/vnc.html
+URL       : https://bidding-joined-linda-closely.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 05:13:30
+Created   : 2026-10-30 16:38:28
 =======================================================
